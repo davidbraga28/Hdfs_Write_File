@@ -1,4 +1,4 @@
-package hdfs;
+package hdfs_teste;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
